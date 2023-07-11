@@ -1,0 +1,11 @@
+
+Linked list is empty
+Inserting elements at beginning...
+LL data string :  16-->
+LL data string :  25-->16-->
+LL data string :  36-->25-->16-->
+Inserting elements at end...
+LL data string :  36-->25-->16-->2-->
+LL data string :  36-->25-->16-->2-->3-->
+LL data string :  36-->25-->16-->2-->3-->4-->
+

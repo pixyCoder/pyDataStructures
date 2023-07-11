@@ -1,0 +1,13 @@
+
+Initial number of elements :  0
+Populated number of elements :  3
+Full :  True
+Empty :  False
+Popping elements from stack...
+c
+b
+a
+Full :  False
+Empty:  True
+Populated number of elements :  0
+

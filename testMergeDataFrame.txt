@@ -1,0 +1,19 @@
+
+Temperature dataframe
+            City  Temperature
+0    Los Angeles         80.0
+1  San Francisco         65.0
+2      San Diego         85.0
+
+Humidity dataframe
+            City  Relative humidity
+0    Los Angeles                0.4
+1  San Francisco                0.2
+2        Seattle                0.6
+
+Merged dataframe
+            City  Temperature  Relative humidity        True
+0    Los Angeles         80.0                0.4        both
+1  San Francisco         65.0                0.2        both
+2      San Diego         85.0                NaN   left_only
+3        Seattle          NaN                0.6  right_only

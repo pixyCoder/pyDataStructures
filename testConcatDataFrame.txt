@@ -1,0 +1,22 @@
+
+
+California dataframe
+            City  Temperature
+0    Los Angeles         80.0
+1  San Francisco         65.0
+2      San Diego         85.0
+
+Rest of west coast dataframe
+       City  Temperature
+0   Seattle         70.0
+1  Portland         75.0
+
+Concatenated dataframe
+            City  Temperature
+0    Los Angeles         80.0
+1  San Francisco         65.0
+2      San Diego         85.0
+0        Seattle         70.0
+1       Portland         75.0
+
+

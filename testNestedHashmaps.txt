@@ -1,0 +1,14 @@
+Initial empty hashmap : 
+{}
+
+After initializing nesting : 
+{'Irvine': {}, 'Torrance': {}, 'Burbank': {}, 'Pasadena': {}, 'Brentwood': {}, 'Downtown': {}}
+
+
+After populating weights for nested hashmap Brentwood : 
+{'Irvine': {}, 'Torrance': {}, 'Burbank': {}, 'Pasadena': {}, 'Brentwood': {'Burbank': 16, 'Irvine': 62, 'Torrance': 20, 'Pasadena': 34, 'Downtown': 14}, 'Downtown': {}}
+
+
+After populating weights for nested hashmap Downtown : 
+{'Irvine': {}, 'Torrance': {}, 'Burbank': {}, 'Pasadena': {}, 'Brentwood': {'Burbank': 16, 'Irvine': 62, 'Torrance': 20, 'Pasadena': 34, 'Downtown': 14}, 'Downtown': {'Burbank': 22, 'Irvine': 52, 'Torrance': 26, 'Pasadena': 12, 'Brentwood': 24}}
+

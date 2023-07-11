@@ -1,0 +1,10 @@
+
+Items access
+dict_items([('Virat', 4), ('Dhivya', 39), ('Vijay', 40)])
+
+
+Direct access
+Virat :  4
+Dhivya :  39
+Vijay :  40
+
